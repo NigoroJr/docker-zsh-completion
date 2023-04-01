@@ -1,5 +1,5 @@
 # docker-zsh-completion
 
-Copied from [the official repo](https://github.com/docker/cli/blob/master/contrib/completion/zsh/_docker) (2021-03-30) to make it easier to use from zplug.
+Copied from [the official repo](https://github.com/docker/cli/blob/master/contrib/completion/zsh/_docker) (2023-04-01) to make it easier to use from zplug.
 
-Revision copied: [d3c36a2](https://github.com/docker/cli/blob/d3c36a2a738ae14c8edc2af12b45917e206b58e7/contrib/completion/zsh/_docker).
+Revision copied: [1af9f22](https://github.com/docker/cli/blob/33961a79f1c984b49ab94f7a9520086e9a749eda/contrib/completion/zsh/_docker).
